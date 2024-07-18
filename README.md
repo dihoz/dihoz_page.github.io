@@ -1,1 +1,1 @@
-# dihoz_page.github.io
+# dihoz.github.io
